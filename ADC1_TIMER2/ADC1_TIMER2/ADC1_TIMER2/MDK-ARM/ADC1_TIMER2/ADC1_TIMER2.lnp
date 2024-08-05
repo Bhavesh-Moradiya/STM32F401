@@ -1,0 +1,26 @@
+--cpu Cortex-M4.fp
+"adc1_timer2\stm32f4xx_it.o"
+"adc1_timer2\stm32f4xx_hal_msp.o"
+"adc1_timer2\main.o"
+"adc1_timer2\system_stm32f4xx.o"
+"adc1_timer2\stm32f4xx_hal_tim_ex.o"
+"adc1_timer2\stm32f4xx_hal_cortex.o"
+"adc1_timer2\stm32f4xx_hal_adc.o"
+"adc1_timer2\stm32f4xx_hal_adc_ex.o"
+"adc1_timer2\stm32f4xx_hal_pwr.o"
+"adc1_timer2\stm32f4xx_hal_flash.o"
+"adc1_timer2\stm32f4xx_hal_pwr_ex.o"
+"adc1_timer2\stm32f4xx_hal_rcc_ex.o"
+"adc1_timer2\stm32f4xx_hal_rcc.o"
+"adc1_timer2\stm32f4xx_hal_dma_ex.o"
+"adc1_timer2\stm32f4xx_hal_dma.o"
+"adc1_timer2\stm32f4xx_hal_tim.o"
+"adc1_timer2\stm32f4xx_hal_gpio.o"
+"adc1_timer2\stm32f4xx_hal_flash_ex.o"
+"adc1_timer2\stm32f4xx_hal_flash_ramfunc.o"
+"adc1_timer2\stm32f4xx_hal.o"
+"adc1_timer2\startup_stm32f401xe.o"
+--library_type=microlib --strict --scatter "ADC1_TIMER2\ADC1_TIMER2.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "ADC1_TIMER2.map" -o ADC1_TIMER2\ADC1_TIMER2.axf

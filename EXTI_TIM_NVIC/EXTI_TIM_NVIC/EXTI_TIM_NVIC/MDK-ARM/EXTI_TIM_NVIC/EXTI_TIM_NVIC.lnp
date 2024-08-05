@@ -1,0 +1,24 @@
+--cpu Cortex-M4.fp
+"exti_tim_nvic\stm32f4xx_hal_pwr_ex.o"
+"exti_tim_nvic\stm32f4xx_hal.o"
+"exti_tim_nvic\stm32f4xx_hal_flash_ex.o"
+"exti_tim_nvic\stm32f4xx_hal_gpio.o"
+"exti_tim_nvic\stm32f4xx_hal_pwr.o"
+"exti_tim_nvic\stm32f4xx_hal_rcc.o"
+"exti_tim_nvic\stm32f4xx_hal_tim.o"
+"exti_tim_nvic\stm32f4xx_hal_flash.o"
+"exti_tim_nvic\stm32f4xx_hal_rcc_ex.o"
+"exti_tim_nvic\stm32f4xx_hal_dma_ex.o"
+"exti_tim_nvic\stm32f4xx_hal_flash_ramfunc.o"
+"exti_tim_nvic\stm32f4xx_hal_cortex.o"
+"exti_tim_nvic\stm32f4xx_hal_tim_ex.o"
+"exti_tim_nvic\stm32f4xx_hal_dma.o"
+"exti_tim_nvic\startup_stm32f401xe.o"
+"exti_tim_nvic\system_stm32f4xx.o"
+"exti_tim_nvic\stm32f4xx_it.o"
+"exti_tim_nvic\stm32f4xx_hal_msp.o"
+"exti_tim_nvic\main.o"
+--library_type=microlib --strict --scatter "EXTI_TIM_NVIC\EXTI_TIM_NVIC.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "EXTI_TIM_NVIC.map" -o EXTI_TIM_NVIC\EXTI_TIM_NVIC.axf

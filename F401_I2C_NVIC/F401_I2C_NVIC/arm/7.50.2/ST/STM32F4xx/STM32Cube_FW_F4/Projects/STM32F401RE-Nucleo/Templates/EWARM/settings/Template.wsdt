@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Template/STM32F4xx-Nucleo</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>323</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>667</ColumnWidth1><ColumnWidth2>178</ColumnWidth2><ColumnWidth3>44</ColumnWidth3></Build>
+      <Select-Ambiguous-Definitions>
+        <ColumnWidth0>324</ColumnWidth0>
+        <ColumnWidth1>46</ColumnWidth1>
+        <ColumnWidth2>556</ColumnWidth2>
+      </Select-Ambiguous-Definitions>
+      <TerminalIO/>
+      <Debug-Log>
+        <ColumnWidth0>19</ColumnWidth0>
+        <ColumnWidth1>966</ColumnWidth1>
+      </Debug-Log>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21796-17338</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Template</ExpandedNode><ExpandedNode>Template/Drivers</ExpandedNode><ExpandedNode>Template/Example</ExpandedNode><ExpandedNode>Template/Example/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17050-18860</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-31813-19402</Identity>
+            <TabName>Ambiguous Definitions</TabName>
+            <Factory>Select-Ambiguous-Definitions</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-13944-16630</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>27</YPos2><SelStart2>1331</SelStart2><SelEnd2>1331</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\LSM6Ds0.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>828</SelStart2><SelEnd2>828</SelEnd2></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-016E98C8><key>iaridepm.enu1</key></Toolbar-016E98C8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>421</Bottom><Right>397</Right><x>-2</x><y>-2</y><xscreen>288</xscreen><yscreen>272</yscreen><sizeHorzCX>210835</sizeHorzCX><sizeHorzCY>397080</sizeHorzCY><sizeVertCX>292094</sizeVertCX><sizeVertCY>617518</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>219</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>221</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>322628</sizeHorzCY><sizeVertCX>210835</sizeVertCX><sizeVertCY>397080</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
